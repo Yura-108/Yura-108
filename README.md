@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Yury — profile banner" src="./light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./anime.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./anime-light.svg">
+    <img alt="Yury — profile banner" src="./anime-light.svg" width="100%">
   </picture>
 </p>
 <p align="center">
